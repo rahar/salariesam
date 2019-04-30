@@ -193,7 +193,7 @@ tbody tr:hover {
 }
 
 .column1 {
-  width: 150px;
+  width: 100px;
   padding-left: 40px;
 }
 
@@ -202,7 +202,7 @@ tbody tr:hover {
 }
 
 .column3 {
-  width: 160px;
+  width: 250px;
 }
 
 .column4 {
@@ -295,4 +295,8 @@ tbody tr:hover {
     padding-left: 15px;
     padding-right: 15px;
   }
+}
+
+.dataTables_filter {
+  float: left !important;
 }
