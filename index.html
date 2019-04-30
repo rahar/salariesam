@@ -91,6 +91,12 @@
 			return moment(str, "MM/DD/YYYY H:mm:ss").format("YYYY-MM-DD");
 		}
 
+		function unempty(str){
+			if(str === "")
+				return "&nbsp";
+			return str;
+		}
+
 		CsvToHtmlTable.init({
 			csv_path: 'data/Armenia IT Salaries 2019  - Survey responses.csv',
 			element: 'table-container',
@@ -98,7 +104,7 @@
 			csv_options: {separator: ',', delimiter: '"'},
 			datatables_options: {"paging": false},
 			// custom_formatting: [[4, format_link]]
-			custom_formatting: [[0, format_date]]
+			custom_formatting: [[0, format_date], [1, unempty], [4, unempty]]
 		});
 	</script>
 
