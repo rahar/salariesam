@@ -267,7 +267,7 @@ tbody tr:hover {
     content: "Salary";
   }
   table tbody tr td:nth-child(5):before {
-    content: "Years of experience";
+    content: "Experience";
   }
 
   .column4,
