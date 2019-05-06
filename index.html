@@ -65,9 +65,6 @@
 						Data is licensed under <a style="color:white;" href="https://opendatacommons.org/licenses/by/1.0/"> Open Data Commons Attribution License (ODC-By) v1.0</a>.
 						Here is the <a style="color:white;" href="data/Armenia IT Salaries 2019  - Survey responses.csv">link</a> to download the data.
 					</p>
-					<p>
-
-					</p>
 
 				</div>
 			</div>
@@ -115,7 +112,18 @@
 			element: 'table-container',
 			allow_download: true,
 			csv_options: {separator: ',', delimiter: '"'},
-			datatables_options: {"paging": false, order: [[ 0, "desc" ]]},
+			datatables_options: {
+				"paging": false,
+				order: [[ 0, "desc" ]],
+				"columns": [
+					null,
+					null,
+					null,
+					{ "type": "num-fmt" },
+					{ "type": "num" }
+				]
+
+			},
 			// custom_formatting: [[4, format_link]]
 			custom_formatting: [[0, format_date], [1, unempty], [4, unempty]]
 		});
