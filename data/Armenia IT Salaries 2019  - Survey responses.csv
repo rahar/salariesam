@@ -1,4 +1,4 @@
-Date,Company,Position,Salary,Years of experience
+Timestamp,Company,Position,Salary AMD (excluding taxes),Years of experience
 4/15/2019 14:54:09,International IT Company,IT Project Manager,"700,000",
 4/15/2019 14:54:55,,Team Leader,"2,500,000",
 4/15/2019 14:55:12,,DevOps,"1,450,000",
@@ -126,12 +126,15 @@ Date,Company,Position,Salary,Years of experience
 4/17/2019 23:55:29,All.me,Manual Qa team lead,"350,000",3
 4/18/2019 8:51:46,,QA Team Lead ,"1,200,000",9
 4/18/2019 9:07:54,Picsart,Senior QA,"555,000",7
-4/18/2019 10:14:39,,Senior Developer,"1,100,000",5
+4/18/2019 10:14:39,2hz,Senior Developer,"1,100,000",5
 4/18/2019 15:56:14,VMware,Staff Engineer,"2,000,000",10
 4/18/2019 19:18:46,,QA Engineer,"380,000",4
 4/18/2019 23:24:28,Picsart,Base/mid Backend Developer,"400,000",2.7
-4/18/2019 10:14:39,,Senior developer,"1,100,000",5
+4/18/2019 10:14:39,2hz,Senior developer,"1,100,000",5
 4/18/2019 13:31:29,Dom Daniel,.,"840,000",12
+4/18/2019 15:56:14,VMware,Staff Engineer,"2,000,000",10
+4/18/2019 19:18:46,,QA engineer,"380,000",4
+4/18/2019 23:24:28,Picsart,Base/mid backend dev,"400,000",2.7
 4/19/2019 12:21:58,M&M,Junior Ios Developer,"1,200,000",1
 4/19/2019 13:05:30,,Senior Software Engineer,"1,300,000",7
 4/19/2019 13:26:51,,Product Owner,"800,000",5
@@ -141,7 +144,7 @@ Date,Company,Position,Salary,Years of experience
 4/19/2019 22:37:09,IU Networks,Team Lead,"1,500,000",14
 4/20/2019 0:10:58,EGS,Team Lead,"1,800,000",11
 4/20/2019 14:06:40,Instigate,Software Engineer,"56,000",1
-4/20/2019 15:00:49,,Senior QA Engineer,"750,000",11
+4/20/2019 15:00:49,       ,Senior QA Engineer,"750,000",11
 4/20/2019 16:13:12,,Senior System Administrator,"150,000",1
 4/20/2019 17:04:18,Union of Advanced Technology Enterprises,Robotics Instructor,"50,000",2
 4/21/2019 0:36:46,EPAM,Senior Front End Developer,"1,200,000",7
@@ -177,3 +180,37 @@ Date,Company,Position,Salary,Years of experience
 5/5/2019 14:39:31,ST-Dev,Backend Developer (Python),"150,000",0
 5/6/2019 1:46:47,VMware,Member of Technical Staff 3,"1,400,000",5
 5/6/2019 1:48:06,VMware,Member of Technical Staff 3,"1,100,000",5
+5/6/2019 13:17:02,,QA,"115,000",1
+5/6/2019 19:48:53,BetConstruct,.NET developer,"1,100,000",4
+5/6/2019 19:49:16,Dom Daniel,.NET engineer,"1,200,000",5
+5/6/2019 19:50:10,BlueNet,Android engineer,"250,000",2
+5/6/2019 23:05:14,Instigate,Software engineer ,"300,000",4
+5/7/2019 21:49:27,,Programmer,"400,000",4
+5/8/2019 4:37:33,Pornhub,Data Analyst,"6,500,000",8
+5/8/2019 10:59:39,Public school,"Teacher, Operator","46,000",16
+5/8/2019 11:14:21,Low Cost company,System Administrator,"230,000",0.8
+5/8/2019 12:59:08,Greatergood Europe,Software Engineer,"2,700,000",10
+5/8/2019 14:42:51,Ayotech,Laravel Developer,"350,000",2
+5/8/2019 14:43:57,,ML engineer part time,"200,000",0.5
+5/8/2019 14:46:36,AyoTach,Magento developer,"420,000",2.5
+5/8/2019 14:55:38,,Tech lead,"14,000,000",7
+5/8/2019 14:55:47,,Tech lead,"14,000,000",7
+5/8/2019 14:55:48,,Product owner,"750,000",4.5
+5/8/2019 15:20:46,Parisian Surch Factory,Accountant,"300,000",3
+5/9/2019 22:04:20,YEA Engineering,Systems Engineer,"600,000",2
+5/10/2019 12:27:28,,Mid-level Software Developer,"400,000",4
+5/14/2019 14:11:21,,Senior IT Consultant ,"1,500,000",3
+5/14/2019 18:25:39,,QA Engineering Lead,"2,100,000",13
+5/14/2019 19:17:57,,QA engineer,"250,000",0.8
+5/14/2019 20:52:34,,Mid-level Back End Engineer,"576,000",2.5
+5/15/2019 15:55:48,Riot Games ,Senior Data Analyst ,"1,650,000",5
+5/15/2019 16:04:12,,Junior Data Analyst,"800,000",1
+5/16/2019 18:16:38,,Manual QA,"70,000",0
+5/16/2019 21:29:22,IUNetworks,Senior Java Developer,"1,400,000",8
+5/17/2019 17:22:20,STDev,Project Manager ,"350,000",3
+5/17/2019 20:19:29,Instigate Design,Lead Developer,"14,000,000",11
+5/18/2019 15:41:24,Armsoft,Software Developer,"90,000",0
+5/23/2019 15:23:35,,Junior PHP Full Stack developer,"220,000",0.4
+5/23/2019 22:41:53,Synopsys,R&D engineer 1,"320,000",1
+5/26/2019 17:51:19,,Software Engineer,"388,000",8
+5/27/2019 10:51:03,Webb Fontaine,Product owner (PO),"900,000",5
