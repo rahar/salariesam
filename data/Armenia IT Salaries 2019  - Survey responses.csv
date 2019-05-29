@@ -1,4 +1,4 @@
-Timestamp,Company,Position,Salary AMD (excluding taxes),Years of experience
+Date,Company,Position,Salary,Years of experience
 4/15/2019 14:54:09,International IT Company,IT Project Manager,"700,000",
 4/15/2019 14:54:55,,Team Leader,"2,500,000",
 4/15/2019 14:55:12,,DevOps,"1,450,000",
@@ -126,11 +126,11 @@ Timestamp,Company,Position,Salary AMD (excluding taxes),Years of experience
 4/17/2019 23:55:29,All.me,Manual Qa team lead,"350,000",3
 4/18/2019 8:51:46,,QA Team Lead ,"1,200,000",9
 4/18/2019 9:07:54,Picsart,Senior QA,"555,000",7
-4/18/2019 10:14:39,2hz,Senior Developer,"1,100,000",5
+4/18/2019 10:14:39,,Senior Developer,"1,100,000",5
 4/18/2019 15:56:14,VMware,Staff Engineer,"2,000,000",10
 4/18/2019 19:18:46,,QA Engineer,"380,000",4
 4/18/2019 23:24:28,Picsart,Base/mid Backend Developer,"400,000",2.7
-4/18/2019 10:14:39,2hz,Senior developer,"1,100,000",5
+4/18/2019 10:14:39,,Senior developer,"1,100,000",5
 4/18/2019 13:31:29,Dom Daniel,.,"840,000",12
 4/18/2019 15:56:14,VMware,Staff Engineer,"2,000,000",10
 4/18/2019 19:18:46,,QA engineer,"380,000",4
