@@ -1,4 +1,4 @@
-Date,Company,Position,Salary,Years of experience
+Timestamp,Company,Position,Salary AMD (excluding taxes),Years of experience
 4/15/2019 14:54:09,International IT Company,IT Project Manager,"700,000",
 4/15/2019 14:54:55,,Team Leader,"2,500,000",
 4/15/2019 14:55:12,,DevOps,"1,450,000",
@@ -193,8 +193,6 @@ Date,Company,Position,Salary,Years of experience
 5/8/2019 14:42:51,Ayotech,Laravel Developer,"350,000",2
 5/8/2019 14:43:57,,ML engineer part time,"200,000",0.5
 5/8/2019 14:46:36,AyoTach,Magento developer,"420,000",2.5
-5/8/2019 14:55:38,,Tech lead,"14,000,000",7
-5/8/2019 14:55:47,,Tech lead,"14,000,000",7
 5/8/2019 14:55:48,,Product owner,"750,000",4.5
 5/8/2019 15:20:46,Parisian Surch Factory,Accountant,"300,000",3
 5/9/2019 22:04:20,YEA Engineering,Systems Engineer,"600,000",2
@@ -208,9 +206,19 @@ Date,Company,Position,Salary,Years of experience
 5/16/2019 18:16:38,,Manual QA,"70,000",0
 5/16/2019 21:29:22,IUNetworks,Senior Java Developer,"1,400,000",8
 5/17/2019 17:22:20,STDev,Project Manager ,"350,000",3
-5/17/2019 20:19:29,Instigate Design,Lead Developer,"14,000,000",11
 5/18/2019 15:41:24,Armsoft,Software Developer,"90,000",0
 5/23/2019 15:23:35,,Junior PHP Full Stack developer,"220,000",0.4
 5/23/2019 22:41:53,Synopsys,R&D engineer 1,"320,000",1
 5/26/2019 17:51:19,,Software Engineer,"388,000",8
 5/27/2019 10:51:03,Webb Fontaine,Product owner (PO),"900,000",5
+5/29/2019 16:51:33,,Senior QA Automation Engineer,"750,000",4.5
+5/29/2019 18:34:21,Digitain,Tech Writer,"200,000",2
+5/29/2019 18:34:48,Digitain,Product Owner,"350,000",5
+5/29/2019 18:35:19,Disqo,Tech Writer,"750,000",7
+5/29/2019 18:35:41,OMD,Technical Support ,"1,000,000",15
+5/30/2019 0:47:02,Freelance,Software Developer,"2,000,000",12
+5/30/2019 10:55:46,HelpSystems,Senior QA,"1,500,000",8
+5/30/2019 17:37:46,Synopsys,Sr2 QA,"1,500,000",8
+6/1/2019 14:30:17,,Network Administrator,"400,000",4
+6/3/2019 20:30:28,STDev Armenia,Backend Developer,"400,000",2
+6/8/2019 13:35:28,Where I should not work for this salary as well :),Technical Product Owner,"300,000",2
